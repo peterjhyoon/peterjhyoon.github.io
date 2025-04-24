@@ -9,10 +9,10 @@ const Hero = () => {
     <div className="flex h-[90vh] items-center bg-[linear-gradient(135deg,_#F5F9FF_0%,_#fff_100%)] relative overflow-hidden">
         <div className="container mx-auto px-30">
             <div className="hero-content w-[60%]">
-            <h1 className="text-5xl font-bold text-[#222222] mb-6">Hi! I'm Peter</h1>
+            <h1 className="text-5xl font-bold text-[#222222] mb-6">Hi! I'm Peter 👋</h1>
             <p className="text-xl text-[#4A90E2] mb-8">Software Engineer Intern @ SAP</p>
             <p className="pb-8 text-lg">
-              Hey! I'm senior at UC San Diego studying Mathematics and Computer Science.<br></br>
+              Hey! I'm studying Mathematics and Computer Science at UC San Diego.<br></br>
               I'm always passionate solving problems with data and learning something new!
             </p>
             <a href="#projects" className="cta-button inline-block bg-[#2C5282] text-white py-3 px-8 rounded-md font-semibold transition-colors duration-300 hover:bg-[#1A365D]">
