@@ -7,7 +7,7 @@ const Hero = () => {
 
   return (
     <div className="flex h-[90vh] items-center bg-[linear-gradient(135deg,_#F5F9FF_0%,_#fff_100%)] relative overflow-hidden">
-        <div className="container mx-auto px-30">
+        <div className="container mx-auto pl-[5%] pr-[5%] flex flex-col items-start justify-center h-full relative">
             <div className="hero-content w-[60%]">
             <h1 className="text-5xl font-bold text-[#222222] mb-6">Hi! I'm Peter 👋</h1>
             <p className="text-xl text-[#4A90E2] mb-8">Software Engineer Intern @ SAP</p>
