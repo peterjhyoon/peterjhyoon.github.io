@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../assets/misc/Peter_Yoon_Resume_FT.pdf'
+import resume from '../assets/misc/Peter_Yoon_Resume_25_FT.pdf'
 
 const Header = () => {
   return (
