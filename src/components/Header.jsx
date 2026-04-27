@@ -13,6 +13,7 @@ const Header = () => {
                 <a href="#projects" className='hover:text-[#4A90E2]'>Projects</a>
                 <a href={resume} target="_blank" rel="noopener noreferrer" className='hover:text-[#4A90E2]'>Resume</a>
                 <a href="#contact" className='hover:text-[#4A90E2]'>Contact</a>
+                <a href="#food-blog" className='hover:text-[#4A90E2]'>Food Blog</a>
                 <a href="#korean" className='hover:text-[#4A90E2]'>한국어</a>
             </div>
         </nav>
