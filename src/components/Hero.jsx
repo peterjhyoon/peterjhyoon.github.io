@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import profile from '../assets/img/profile.jpg'
 
 const Hero = () => {
-  const roles = ['Software Engineer', 'Musician', 'Athlete'];
-  const [currentRole, setCurrentRole] = useState('');
+  // const roles = ['Software Engineer', 'Musician', 'Athlete'];
+  // const [currentRole, setCurrentRole] = useState('');
 
   return (
     <div className="flex h-[90vh] items-center bg-[linear-gradient(135deg,_#F5F9FF_0%,_#fff_100%)] relative overflow-hidden">
