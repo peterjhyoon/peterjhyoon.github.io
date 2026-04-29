@@ -4,7 +4,7 @@ const ComingSoon = () => {
   const navigate = useNavigate()
 
   return (
-    <div className="flex h-[90vh] items-center justify-center bg-[linear-gradient(135deg,_#F5F9FF_0%,_#fff_100%)] relative overflow-hidden">
+    <div className="flex h-screen items-center justify-center bg-[linear-gradient(135deg,_#F5F9FF_0%,_#fff_100%)] relative overflow-hidden">
 
       {/* Decorative blobs matching hero aesthetic */}
       <div className="absolute top-[-100px] right-[-80px] w-96 h-96 rounded-full bg-[#BFDBFE] opacity-20 pointer-events-none" />
